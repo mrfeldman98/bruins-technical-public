@@ -1,0 +1,13 @@
+event_name,event_date,event_time,team,game_number
+B221111,11/11/22,19:00,Bruins vs. Canadiens,6
+B221111R,11/11/22,19:00,vs. Canadiens: Rafters,
+B221111P,11/11/22,19:00,vs. Canadiens: Parking,
+B221010,10/10/22,19:00,Bruins vs. Maple Leafs,3
+B221010R,10/10/22,19:00,vs. Maple Leafs: Rafters,
+B221010P,10/10/22,19:00,vs. Maple Leafs: Parking,
+B230101,1/1/23,15:00,Briuns vs. Blackhawks,9
+B230101R,1/1/23,15:00,vs. Blackhawks: Rafters,
+B230101P,1/1/23,15:00,vs. Blackhawks: Parking,
+B230107,1/7/23,12:00,Bruins vs. Hurricanes,10
+B230107R,1/7/23,12:00,vs. Hurricanes: Rafters,
+B230107P,1/7/23,12:00,vs. Hurricanes: Parking,
